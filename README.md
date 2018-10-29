@@ -1,4 +1,4 @@
-# repo title
+# Obstacle classification in image dataset(CIFAR-10) using deep learning
 * intro to be updated soon
 * **Tools used**: (Theano,Lasagne,Nolearn,Amazon EC2)
 ___
