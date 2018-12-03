@@ -4,12 +4,13 @@
 
 * Tools used: (Theano,Lasagne,Nolearn,Amazon EC2)
 ___
-* Footnotes:
-> Network-in-network layers: These are small neural networks that are easier to interpret than traditional neural network layers.
+Footnotes:
 
-> Dropout layers: These randomly drop units during training, preventing overfitting, which is a major problem in neural networks.
-
-> Noise layers: These introduce noise into the neurons; again, addressing the overfitting problem.
+    Network-in-network layers: These are small neural networks that are easier to interpret than traditional 
+    neural network layers.
+    Dropout layers: These randomly drop units during training, preventing overfitting, which is a major problem
+    in neural networks.
+    Noise layers: These introduce noise into the neurons; again, addressing the overfitting problem.
 
 Reference: Learning Data mining with Python by Robert Layton.
 
