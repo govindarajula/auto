@@ -12,6 +12,7 @@ Advisor(s): B Ravi, Y V Narayana, D Teja Santosh
 
 * Tools used: (Theano, Matlab, Simulink, CAD, Mechanics, ECU, Lasagne,Nolearn,Amazon EC2)
 ___
+<img src="https://github.com/gvsakashb/btech/blob/master/images/model%20idea.jpg" width="500">
 Footnotes:
 
     Network-in-network layers: These are small neural networks that are easier to interpret than traditional 
