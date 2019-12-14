@@ -1,5 +1,7 @@
 #### Autonomous vehicle study (indpenedent multi-disciplinary project):
 
+Advisor(s): B Ravi, Y V Narayana, D Teja Santosh 
+
 ##### Drive-by-wire Steering Design
 * Designed a simulation of steering mechanism of an autonomous car, on the Simulink environment, with CarSim and SimScape.
 * Proposed model incorporates ECU unit and sensors upon a Power assisted steering mechanism and tested by simulations for constant and variable speeds studying torsion, yaw and acceleration.
@@ -18,6 +20,6 @@ Footnotes:
     in neural networks.
     Noise layers: These introduce noise into the neurons; again, addressing the overfitting problem.
 
-Reference: Learning Data mining with Python by Robert Layton.
-
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
+References: 
+* Learning Data mining with Python by Robert Layton.
+* [Handout for simulink based idea](https://www.carsim.com/downloads/pdf/carsim_handout.pdf)
