@@ -1,14 +1,14 @@
 #### Autonomous vehicle study (indpenedent multi-disciplinary project):
 
-Advisor(s): B Ravi, Y V Narayana, D Teja Santosh 
+##### Obstacle classification in images using deep learning
+* Developed an image prediction algorithm upon the Theano library using the CIFAR-10 dataset, for vision system of a car for on-road obstacles. Improved processing by a factor of 10 by deploying on Amazon EC2(GPU-enabled virtual machine).
 
 ##### Drive-by-wire Steering Design
 * Designed a simulation of steering mechanism of an autonomous car, on the Simulink environment, with CarSim and SimScape.
 * Proposed model incorporates ECU unit and sensors upon a Power assisted steering mechanism and tested by simulations for constant and variable speeds studying torsion, yaw and acceleration.
 
 
-##### Obstacle classification in images using deep learning
-* Developed an image prediction algorithm upon the Theano library using the CIFAR-10 dataset, for vision system of a car for on-road obstacles. Improved processing by a factor of 10 by deploying on Amazon EC2(GPU-enabled virtual machine).
+
 
 * Tools used: (Theano, Matlab, Simulink, CAD, Mechanics, ECU, Lasagne,Nolearn,Amazon EC2)
 ___
