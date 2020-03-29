@@ -17,7 +17,9 @@
 
 ___
 
-<img src="https://github.com/gvsakashb/btech/blob/master/images/model%20idea.jpg" width="500">
+<img src="https://github.com/gvsakashb/btech/blob/master/images/model%20idea.jpg" width="400"> <img src="" width="300">
+
+
 Footnotes:
 
     Network-in-network layers: These are small neural networks that are easier to interpret than traditional
