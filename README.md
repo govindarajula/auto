@@ -17,7 +17,7 @@
 
 ___
 
-<img src="https://github.com/gvsakashb/btech/blob/master/images/model%20idea.jpg" width="400"> <img src="" width="300">
+<img src="https://github.com/gvsakashb/btech/blob/master/images/model%20idea.jpg" width="400"> <img src="https://github.com/gvsakashb/speedPrediction/blob/master/dl-opt-flow/output.gif" width="300">
 
 
 Footnotes:
