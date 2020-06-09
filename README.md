@@ -8,7 +8,7 @@
 * Designed a simulation model for the steering mechanism of an autonomous car, employing a Drive-by-Wire mechanism and deployed on the Simulink environment (CarSim, PreScan, and SimScape).
 * Proposed a model with Nissan ECU unit and multiple sensors upon a Power Assisted Steering mechanism, after test simulations for constant and variable speeds. Studied torsion, yaw and acceleration parameters.
 
-##### iii. [Real-time Speed Detection from Visual Video Feed](https://github.com/govindarajula/speedPrediction)
+##### iii. [Real-time Speed Detection from Visual Video Feed](https://github.com/bongam12/speedPrediction)
 * Developed a velocity prediction and calibration system based on dashcam video data, using RCNNs and MobileNet SDD architecture.
 * Explored end-to-end approach with Optical flow upon OpenCV, with the training module developed upon Pytorch.
 
@@ -17,7 +17,7 @@
 
 ___
 
-<img src="https://github.com/govindarajula/btech/blob/master/images/model%20idea.jpg" width="400"> <img src="https://github.com/govindarajula/speedPrediction/blob/master/dl-opt-flow/output.gif" width="300">
+<img src="https://github.com/govindarajula/btech/blob/master/images/model%20idea.jpg" width="400"> <img src="https://github.com/bongam12/speedPrediction/blob/master/dl-opt-flow/output.gif" width="300">
 
 
 Footnotes:
