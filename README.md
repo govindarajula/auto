@@ -40,13 +40,13 @@ Our submisison expands to three sections and has worked on a speed detection cha
 #### Pipeline and architecture:
 Main Tools: Caffe, PyTorch, CNNs, Single-shot MultiBox detectors, OpenCV
 
-<img src="dl-opt-flow/nvidia.jpg">
+<img src="https://github.com/bongam12/speedPrediction/dl-opt-flow/nvidia.jpg">
 
 1. DL model - initial architecture & training
 * To begin our exploration, we decided to start with a basic 8 layer convulational neural net. This net structure is an adaption of tensor flows implementation of a convolution net. However, instead of using the exact net structure, we altered its input dimension and output dimensions as well as its convolution layers in order to successful run our model on our video dataset. 
 * The results of the model can be found at the bottom of the the "Speed Prediction DL.ipnyb" in the file "DLNotebook". The overall performance of this model indicated that there was not a significant predictive aspect of the model. 
 
- <img src="dl-opt-flow/layers.png" width="300">
+ <img src="https://github.com/bongam12/speedPrediction/dl-opt-flow/layers.png" width="300">
 
 2. Using Optical Flow (MSE ~5)
 
@@ -56,7 +56,7 @@ i. Harnessing optical flow and training from consecutive image captures from vid
 
 ii. Incorporation of Multi-box detection & future work towards Real time detection
 
-<img src="dl-opt-flow/comparison.png" width="300"> <img src="dl-opt-flow/output.gif" width="350">
+<img src="https://github.com/bongam12/speedPrediction/dl-opt-flow/comparison.png" width="300"> <img src="https://github.com/bongam12/speedPrediction/dl-opt-flow/output.gif" width="350">
 
 * After initial training and preprocessing, we observe that consectuive and multiple images are better than single images, pulled from the mp4 file.
 
@@ -65,7 +65,7 @@ ii. Incorporation of Multi-box detection & future work towards Real time detecti
 * Apart from DL curiosity and above models, we explored a bare-bones architecture built for object detection, and these files are available in the 'linearRegression' folder.
 * This model has achieved an MSE value close to 6, but has used significantly lesser compute power. However, we see merit in expanding more for stage 2 model towards real-time detection with Caffe support.
 
-<img src="lin-reg/train_graph.png" width="300"> <img src="lin-reg/validation_graph.png" width="300">
+<img src="https://github.com/bongam12/speedPrediction/lin-reg/train_graph.png" width="300"> <img src="https://github.com/bongam12/speedPrediction/lin-reg/validation_graph.png" width="300">
 
 #### Implementation
 
