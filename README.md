@@ -17,7 +17,7 @@
 
 ___
 
-<img src="https://github.com/govindarajula/btech/blob/master/images/model%20idea.jpg" width="400"> <img src="https://github.com/bongam12/speedPrediction/blob/master/dl-opt-flow/output.gif" width="300">
+<img src="https://github.com/gvsakash/btech/blob/master/images/model%20idea.jpg" width="400"> <img src="https://github.com/bongam12/speedPrediction/blob/master/dl-opt-flow/output.gif" width="300">
 
 
 Footnotes:
@@ -65,7 +65,7 @@ ii. Incorporation of Multi-box detection & future work towards Real time detecti
 * Apart from DL curiosity and above models, we explored a bare-bones architecture built for object detection, and these files are available in the 'linearRegression' folder.
 * This model has achieved an MSE value close to 6, but has used significantly lesser compute power. However, we see merit in expanding more for stage 2 model towards real-time detection with Caffe support.
 
-<img src="https://github.com/bongam12/speedPrediction/lin-reg/train_graph.png" width="300"> <img src="https://github.com/bongam12/speedPrediction/lin-reg/validation_graph.png" width="300">
+<img src="https://github.com/bongam12/speedPrediction/blob/master/lin-reg/train_graph.png" width="300"> <img src="https://github.com/bongam12/speedPrediction/blob/master/lin-reg/validation_graph.png" width="300">
 
 #### Implementation
 
